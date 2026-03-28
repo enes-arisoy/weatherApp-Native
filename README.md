@@ -29,4 +29,4 @@ A beautiful and intuitive weather application built with React Native and Expo. 
 
 Contributions are welcome! 🎉
 
-[Demo](weatherApp.gif)
+[](weatherApp.gif)
