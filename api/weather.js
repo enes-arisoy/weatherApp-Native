@@ -1,6 +1,7 @@
 import axios from "axios";
+import Constants from 'expo-constants';
 
-const WEATHER_API_KEY = "b2b3eae247714919944190718262503";
+const WEATHER_API_KEY = Constants.expoConfig?.extra?.API_KEY;
 
 const getLocationData = async (query) => {
   try {
